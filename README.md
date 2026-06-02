@@ -5,7 +5,7 @@
   +91 9818856335 &nbsp;•&nbsp;
   Delhi, India &nbsp;•&nbsp;
   <a href="https://github.com/shaauryaa">github.com/shaauryaa</a> &nbsp;•&nbsp;
-  <a href="https://linkedin.com/in/shaurya-nigam">linkedin.com/in/shaurya-nigam</a>
+  <a href="https://linkedin.com/in/shaurya-nigam-436527323">linkedin.com/in/shaurya-nigam-436527323</a>
 </p>
 
 <p align="center">
