@@ -41,7 +41,7 @@ Bachelor of Engineering &nbsp;|&nbsp; CGPA: **8.95 / 10** &nbsp;|&nbsp; *08/2024
 
 ## Projects
 
-### NABHA Telemedicine Platform — Smart India Hackathon (Top 100)
+### [NABHA Telemedicine Platform — Smart India Hackathon (Top 100)](https://github.com/shaauryaa/nabha-telemedicine-platform)
 `JavaScript` `React` `Python` `Scikit-learn` &nbsp;|&nbsp; *09/2025 – 12/2025*
 
 - Engineered an AI-powered telemedicine platform with an integrated **symptom-analysis chatbot** and secure **cloud-based** patient record management, validated with **100+ users** across rural environments.
