@@ -59,11 +59,12 @@ Bachelor of Engineering &nbsp;|&nbsp; CGPA: **8.95 / 10** &nbsp;|&nbsp; *08/2024
 
 ---
 
-### [Formula One Race Strategy Optimizer](https://github.com/shaauryaa/F1-Strategy-Optimizer)
-`Python` `Scikit-learn` `Streamlit` &nbsp;|&nbsp; *02/2026 – Present*
+### [PITWALL — F1 Race Strategy Optimizer](https://github.com/shaauryaa/F1-Strategy-Optimizer) &nbsp;|&nbsp; [Live](https://f1-strategy-optimizer.vercel.app)
+`FastAPI` `Next.js` `scikit-learn` `Render` `Vercel` &nbsp;|&nbsp; *02/2026 – Present*
 
-- Developed a **Gradient Boosting** predictive model for lap time forecasting achieving **1.2s RMSE**; applied feature engineering on tyre degradation and track temperature data.
-- Designed pit-stop optimization via **Dynamic Programming** with memoization; built interactive Streamlit web app reducing simulated race time by **30+ seconds**.
+- Built and deployed a full-stack F1 pit-strategy engine trained on **215k real race laps** (32 circuits, 2014–2024); base-pace **Gradient Boosting** model achieves **MAE 2.6s, R² 0.85** on race-weekend grouped cross-validation.
+- Implemented **Monte Carlo safety-car simulation** (200 scenarios per strategy) to rank strategies by expected outcome under uncertainty, alongside undercut/overcut delta analysis for each pit stop.
+- Shipped a **FastAPI** backend (Render) and cinematic **Next.js 15** frontend (Vercel) with cold-start-aware loading UX, animated skeleton placeholders, and live strategy comparison across ranked alternatives.
 
 ---
 
