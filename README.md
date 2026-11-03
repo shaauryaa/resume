@@ -1,11 +1,10 @@
 <h1 align="center">Shaurya Nigam</h1>
 
 <p align="center">
-  <a href="mailto:shnigam_10@bennett.edu">shnigam_10@bennett.edu</a> &nbsp;•&nbsp;
+  <a href="mailto:shauryanigam2006@gmail.com">shauryanigam2006@gmail.com</a> &nbsp;•&nbsp;
   +91 9818856335 &nbsp;•&nbsp;
-  Delhi, India &nbsp;•&nbsp;
-  <a href="https://github.com/shaauryaa">github.com/shaauryaa</a> &nbsp;•&nbsp;
-  <a href="https://linkedin.com/in/shaurya-nigam-436527323">linkedin.com/in/shaurya-nigam-436527323</a>
+  <a href="https://linkedin.com/in/shaurya-nigam-436527323">LinkedIn</a> &nbsp;•&nbsp;
+  <a href="https://github.com/shaauryaa">GitHub</a>
 </p>
 
 <p align="center">
@@ -14,16 +13,44 @@
 
 ---
 
-## Professional Summary
+## Experience
 
-AI and Full-Stack focused Computer Science student with hands-on experience in machine learning, predictive systems, and intelligent application development. Ranked in the **Top 100 teams at Smart India Hackathon** out of 500+ teams at Bennett University for an AI-powered telemedicine platform targeting rural healthcare accessibility. **AWS Certified AI Practitioner** with a CGPA of 8.95, proficient in Python, scikit-learn, SQL, and cloud technologies.
+**Voice Agent Intern — AutoMinds LLC** &nbsp;|&nbsp; *06/2026 – 07/2026*  
+Remote (Texas, USA)
+
+- Built a **voice-agent testing framework** in **Python**: a **GPT-4o** simulated patient calls a production dental voice agent over **LiveKit** and **Twilio SIP**, automating QA previously done by **150+** hand-dialed calls.
+- Authored **278** scenarios across **11** call types and **7** personas in **English, Spanish and Hindi** (**144 multi-intent**).
+- Built a **Gemini LLM-as-judge** grader that checks agent claims against **DynamoDB** API logs to catch **hallucinated outcomes**, with a dashboard of verdicts, reasoning, and transcripts.
+- Ran **200+** graded calls and surfaced around **90 bugs** (hallucinated bookings, insurance errors, missed emergency transfers); **90%** fixed, framework still in regular use.
+
+---
+
+## Projects
+
+### [NABHA Telemedicine Platform](https://github.com/shaauryaa/nabha-telemedicine-platform)
+`React` `JavaScript` `Python` `Scikit-learn` &nbsp;|&nbsp; *09/2025 – 12/2025*
+
+- Built an **AI telemedicine platform** for rural healthcare (**Top 100 of 500+ teams**, Bennett's internal Smart India Hackathon) with a **symptom-analysis chatbot** and cloud-based patient records.
+- Added an **Emergency SOS** with clinic discovery, **end-to-end encrypted** doctor-patient consultations, and **low-bandwidth** multilingual support.
+
+### [CivicFix](https://github.com/shaauryaa/Civic-Fix)
+`React 18` `Tailwind CSS` `Leaflet.js` `Vite` `Scikit-learn` &nbsp;|&nbsp; *01/2026 – Present*
+
+- Built a full-stack **civic issue reporting platform** (**team of 4**) with **8** issue categories, a **4-step GPS wizard**, **AI severity analysis**, and an admin dashboard.
+- Engineered **3 AI modules**: **7-day duplicate detection**, locality-level civic health scores, and auto-generated government complaint letters.
+
+### [Formula One Race Strategy Optimizer](https://github.com/shaauryaa/F1-Strategy-Optimizer) &nbsp;|&nbsp; [Live Demo](https://f1-strategy-optimizer.vercel.app/)
+`Python` `Scikit-learn` `Streamlit` &nbsp;|&nbsp; *02/2026 – Present*
+
+- Built a **Gradient Boosting** lap-time model with **1.2s RMSE** using tyre degradation and track temperature data.
+- Designed a **Dynamic Programming** pit-stop optimizer (memoization) in a **Streamlit** app, cutting simulated race time by **30+ seconds**.
 
 ---
 
 ## Education
 
 **Bennett University** — Greater Noida, India  
-Bachelor of Engineering &nbsp;|&nbsp; CGPA: **8.95 / 10** &nbsp;|&nbsp; *08/2024 – 06/2028*
+B.E. in Computer Science and Engineering (AI Specialization) &nbsp;|&nbsp; CGPA: **8.88 / 10** &nbsp;|&nbsp; *08/2024 – 06/2028*
 
 ---
 
@@ -31,63 +58,26 @@ Bachelor of Engineering &nbsp;|&nbsp; CGPA: **8.95 / 10** &nbsp;|&nbsp; *08/2024
 
 | Category | Skills |
 |---|---|
-| **Languages & Web** | Python, Java, C++, HTML, CSS, JavaScript, React |
+| **Languages** | Python, C++, Java, JavaScript, SQL, HTML/CSS |
+| **Frameworks & Libraries** | React, Node.js, FastAPI, Streamlit, Scikit-learn, TensorFlow, Pandas, NumPy |
+| **AI & Voice** | LLM Evaluation, LLM-as-Judge, OpenAI API, Gemini API, LiveKit, Twilio SIP, Deepgram, Cartesia |
+| **Backend & Cloud** | REST APIs, Docker, AWS (DynamoDB), MongoDB, CI/CD, Git, GitHub |
 | **CS Fundamentals** | DSA, Operating Systems, DBMS, OOP |
-| **ML & Data Science** | Scikit-learn, TensorFlow, Deep Learning, Feature Engineering, NumPy, Pandas |
-| **Databases & Cloud** | SQL, MongoDB, AWS |
-| **Tools & Platforms** | Git, GitHub, Figma, Linux, Matplotlib, IntelliJ IDEA, VS Code |
-
----
-
-## Projects
-
-### [NABHA Telemedicine Platform — Smart India Hackathon (Top 100)](https://github.com/shaauryaa/nabha-telemedicine-platform)
-`JavaScript` `React` `Python` `Scikit-learn` &nbsp;|&nbsp; *09/2025 – 12/2025*
-
-- Engineered an AI-powered telemedicine platform with an integrated **symptom-analysis chatbot** and secure **cloud-based** patient record management, validated with **100+ users** across rural environments.
-- Built an Emergency SOS system with **real-time location-based** clinic discovery across **50+ clinics**, alongside a doctor-patient consultation module with end-to-end encrypted digital health records.
-- Optimized for **low-bandwidth environments** with multilingual support across **5+ languages**, enabling accessible healthcare delivery for underserved rural populations.
-
----
-
-### [CivicFix — Civic Issue Reporting and Tracking Platform](https://github.com/shaauryaa/Civic-Fix)
-`React 18` `Tailwind CSS` `Leaflet.js` `Vite` `Scikit-learn` &nbsp;|&nbsp; *01/2026 – Present*
-
-- Built a full-stack AI-powered civic issue reporting platform across **8 issue categories** with a **4-step GPS-enabled wizard**, photo evidence upload, and **AI-driven severity analysis** — with **100+ registered users** and **50+ issues logged**.
-- Engineered **3 AI modules** including an Issue Analyser with 7-day duplicate detection, an AI City Predictor surfacing locality-level civic health scores, and an AI Letter Generator producing **75+ formal government-format complaint letters**.
-- Developed a real-time Admin Dashboard with **4-stage resolution tracking**, live notifications, and an AI Insights Panel enabling transparent municipal issue management — built collaboratively in a **cross-functional team of 4**.
-
----
-
-### [PITWALL — F1 Race Strategy Optimizer](https://github.com/shaauryaa/F1-Strategy-Optimizer) &nbsp;|&nbsp; [Live](https://f1-strategy-optimizer.vercel.app)
-`FastAPI` `Next.js` `scikit-learn` `Render` `Vercel` &nbsp;|&nbsp; *02/2026 – Present*
-
-- Built and deployed a full-stack F1 pit-strategy engine trained on **215k real race laps** (32 circuits, 2014–2024); base-pace **Gradient Boosting** model achieves **MAE 2.6s, R² 0.85** on race-weekend grouped cross-validation.
-- Implemented **Monte Carlo safety-car simulation** (200 scenarios per strategy) to rank strategies by expected outcome under uncertainty, alongside undercut/overcut delta analysis for each pit stop.
-- Shipped a **FastAPI** backend (Render) and cinematic **Next.js 15** frontend (Vercel) with cold-start-aware loading UX, animated skeleton placeholders, and live strategy comparison across ranked alternatives.
 
 ---
 
 ## Certifications
 
-**[AWS Certified AI Practitioner](https://aws.amazon.com/verification)** — Amazon Web Services &nbsp;|&nbsp; *04/2026 – 04/2029*  
-Verification Code: `1dd555b49c604f4fa5c61c834e75c6aa`  
-Validates hands-on understanding of AI/ML fundamentals, generative AI, and cloud-based AI service deployment on AWS.
+- **AWS Certified Solutions Architect – Associate** &nbsp;|&nbsp; [Verify](https://www.credly.com/badges/bfdaa7a4-1c27-4110-8d43-c38433e78363/public_url) &nbsp;|&nbsp; *10/2026 – 10/2029*
+- **AWS Certified AI Practitioner** &nbsp;|&nbsp; [Verify](https://www.credly.com/badges/d56247dd-87e0-4f57-aa14-684bfa1450eb/public_url) &nbsp;|&nbsp; *04/2026 – 04/2029*
+- **NPTEL (IIT Kanpur): Soft Skills and Personality** — Elite, Gold, Top 1% &nbsp;|&nbsp; [Verify](https://beta.nptel.ac.in/verify/NOC-ZXV1-GQSK-S4RSK) &nbsp;|&nbsp; *08/2026 – 10/2026*
 
 ---
 
-## Experience
+## Leadership
 
-**GeeksforGeeks Student Chapter — Multimedia Head (Senior Core)** &nbsp;|&nbsp; *08/2025 – Present*  
-Bennett University, Greater Noida, India
+**GeeksforGeeks Student Chapter — Multimedia Head (Senior Core)** &nbsp;|&nbsp; *08/2025 – 05/2026*  
+Bennett University
 
-- Secured sponsorship from **Casio India** for GeekCode events, achieving **500+ registrations** and expanding reach beyond campus.
-- Led multimedia production of **10+ reels** accumulating **50K+ total views**, significantly growing chapter engagement and brand visibility.
-
----
-
-**CodeChef Student Chapter — Social Media Manager** &nbsp;|&nbsp; *08/2024 – 08/2025*  
-Bennett University, Greater Noida, India
-
-- Managed end-to-end execution of coding contests and workshops, driving participation from **250+ students** across campus.
-- Designed and delivered **10+ monthly posts** across Instagram and LinkedIn, building and maintaining the chapter's digital presence.
+- Secured **Casio India** sponsorship for GeekCode events, driving **500+ registrations** beyond campus.
+- Led production of **10+ reels** with **50K+ total views**, growing chapter reach and engagement.
